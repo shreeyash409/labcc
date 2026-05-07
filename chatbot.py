@@ -4,9 +4,6 @@ def chatbot():
 
 while True:
   user = input ("you:").lower()
-
-  if user = "exit":
-    print("invalid error try again")
   elif "help" in user:
     print("what typeof help i can do?")
 chatbot()
